@@ -14,6 +14,7 @@
 - <b>Active Directory</b>
   - [Preparing Infrastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
   - [Deploying Active Directory in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Managing Accounts, Group Policy, and Creating Users in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
