@@ -12,9 +12,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aaronsethroberson/azure-network-protocols)
     
 - <b>Active Directory</b>
-  - [Preparing Infrastructure in Azure](https://github.com/aaronsethroberson/configure-ad)
-  - [Deploying Active Directory in Azure](https://github.com/aaronsethroberson/azure-network-protocols)
-  - [Managing Accounts, Group Policy, and Creating Users in Azure](https://github.com/aaronsethroberson/azure-network-protocols)
+  - [Preparing Infrastructure in Azure](https://github.com/aaronsethroberson/pre-infrastructure)
+  - [Deploying Active Directory in Azure](https://github.com/aaronsethroberson/deploy-active-directory)
+  - [Managing Accounts, Group Policy, and Creating Users in Azure](https://github.com/aaronsethroberson/manage-accounts)
 
 <h2>🤳Connect with me:</h2>
 
