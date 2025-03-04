@@ -1,5 +1,8 @@
 <h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaron-roberson-67215a68/">IT Professional</a>💻</h1>
 
+<h2>About Me</h2>
+As an IT student with a deep passion for technology, I am committed to tackling complex challenges and continuously expanding my skills in this dynamic field. My enthusiasm for innovation drives me to explore new solutions that enhance digital security and support those in need. Through both collaborative and independent projects, I strive to leverage technology to create meaningful, impactful advancements that contribute to a safer and more connected world.
+
 <h2>📝 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
