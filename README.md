@@ -2,6 +2,8 @@
 
 <h2>About Me</h2>
 As an IT student with a deep passion for technology, I am committed to tackling complex challenges and continuously expanding my skills in this dynamic field. My enthusiasm for innovation drives me to explore new solutions that enhance digital security and support those in need. Through both collaborative and independent projects, I strive to leverage technology to create meaningful, impactful advancements that contribute to a safer and more connected world.
+<br/>
+<br/>
 
 <h2>📝 Information Technology Projects:</h2>
 
@@ -18,6 +20,7 @@ As an IT student with a deep passion for technology, I am committed to tackling 
   - [Preparing Infrastructure in Azure](https://github.com/aaronsethroberson/pre-infrastructure)
   - [Deploying Active Directory in Azure](https://github.com/aaronsethroberson/deploy-active-directory)
   - [Managing Accounts, Group Policy, and Creating Users in Azure](https://github.com/aaronsethroberson/manage-accounts)
+<br/>
 
 <h2>🤳Connect with me:</h2>
 
